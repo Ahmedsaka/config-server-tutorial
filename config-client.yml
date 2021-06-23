@@ -16,3 +16,4 @@ config:
     - Micronaut
     - J2EE
     - Android
+    - Kotlin
